@@ -28,6 +28,8 @@ def piece_finder(board, id):
 
 
 
+
+
 if __name__ == "__main__":
     board = setup_board()
 
